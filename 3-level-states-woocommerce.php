@@ -2,7 +2,7 @@
 /**
  * Plugin Name: 4 Level States for Woocommerce
  * Plugin URI: https://developedbymareh.netlify.app
- * Author: Envisiondevs
+ * Author: Wilfred Marete
  * Author URI: https://developedbymareh.netlify.app
  * Description: Add shipping zones 4 levels deep for woocommerce.
  * Version: 0.1.0
